@@ -1,3 +1,4 @@
+0. https://www.slideshare.net/slideshow/getting-a-data-science-job/230921468
 1. https://www.linkedin.com/feed/update/urn:li:activity:7194690172809093121?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7194690172809093121%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 2. 5 Repos for interview prep- https://www.linkedin.com/feed/update/urn:li:activity:7204529889775919107?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7204529889775919107%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 3. MLOPs - https://www.linkedin.com/feed/update/urn:li:activity:7243620171435671552?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7243620171435671552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
