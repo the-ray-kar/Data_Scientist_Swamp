@@ -11,4 +11,4 @@
 10. https://www.linkedin.com/feed/update/urn:li:activity:7276569681287643137?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7276569681287643137%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 11. https://www.linkedin.com/feed/update/urn:li:activity:7275867537873977344?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7275867537873977344%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 12. Kmeans: https://www.linkedin.com/feed/update/urn:li:activity:7273670799486562304?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7273670799486562304%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-13. 
+13. NielsenIQ: https://www.geeksforgeeks.org/nielseniq-interview-experience/
