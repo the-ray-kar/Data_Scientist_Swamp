@@ -2,6 +2,7 @@ SQL Prep:
 1. https://www.linkedin.com/feed/update/urn:li:activity:7238758053934723072?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7238758053934723072%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 2. https://www.linkedin.com/feed/update/urn:li:activity:7271068907778523137?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7271068907778523137%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 3. https://www.linkedin.com/feed/update/urn:li:activity:7272130832427814912?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7272130832427814912%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+4. https://datalemur.com/questions/yoy-growth-rate?referralCode=KnEgxfXo
 
 PySpark:
 1. https://www.linkedin.com/feed/update/urn:li:activity:7267997597112414208?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7267997597112414208%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
