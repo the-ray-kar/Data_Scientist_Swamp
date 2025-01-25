@@ -144,4 +144,3 @@ print(list(my_tuple))  # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 ---
 
-The complete guide continues with advanced topics and coding examples. Keep reading the file to learn about the Python Global Interpreter Lock (GIL), memory management, and advanced concepts like metaclasses, decorators, and context managers.
