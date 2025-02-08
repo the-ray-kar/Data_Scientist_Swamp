@@ -381,5 +381,10 @@ def add(a, b):
 
 print(add(1, 2))  # Output: 3
 print(add(1, 2))  # Output: 3 (Retrieved from cache)</code></pre>
+
+How to merge two /three dictionaries
+merged_dict = {**dic, **dic2,....,**ndic}
+The keys if duplicate. Last is considered
+
 </body>
 </html>
